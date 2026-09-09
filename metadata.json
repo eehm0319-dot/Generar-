@@ -1,0 +1,6 @@
+{
+  "name": "Emiliano Hernández",
+  "description": "Centro de comando y creación de contenido para redes sociales sobre Esfuerzo invisible, Legado, Conciencia Planetaria y Mejora continua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
